@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# Data and model artifacts
+model/
+*.ckpt
+*.pt
+*.bin
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
